@@ -18,6 +18,11 @@ $$\text{Score}(k) = \sum_{w \in W} \mathbb{I}(w \subseteq \text{Plaintext}_k)$$
 
 where $W$ is the set of high-frequency Indonesian linguistic tokens.
 
+
+## Execution Preview
+
+[![Execution Preview Status](https://img.shields.io/badge/CLI_Preview-Documentation_in_Progress-2563eb?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ANTARTICA1/CaesarChiperDecrypt)
+
 ## Features
 
 - Automated Shift Detection: Analyzes candidate plaintexts and selects the shift with the highest vocabulary match score.
